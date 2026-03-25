@@ -1,51 +1,51 @@
-# Grocery-Sales-Analysis
-The objective of the Grocery Sales Analysis Dashboard is to analyze sales performance across different outlet types, item categories, and locations. This dashboard helps stakeholders understand sales trends, customer preferences, and key business drivers to improve decision-making and profitability.
+# Grocery-Sales-Analysis (Interactive Dashboard creation using MS Excel)
 
-## Dataset used 
--<a href="https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Excel%20dashboard.xlsx">Dataset</a>
+## Project Objective  
+The objective of the Grocery Sales Analysis Dashboard is to analyze sales performance across different outlet types, item categories, and locations. This dashboard helps stakeholders understand sales trends, customer preferences, and key business drivers to improve profitability and strategic decision-making.
 
-## ❓ Key Questions (KPIs)
- -What is the total sales generated?
- -What is the average sales per transaction?
- -How many items are sold?
- -What is the average customer rating?
- -Which item types contribute the most to sales?
- -How does fat content (Low Fat vs Regular) impact sales?
- -Sales comparison across outlet sizes (Small, Medium, High)
- -Sales distribution by outlet location tiers (Tier 1, Tier 2, Tier 3)
- -Performance comparison across different outlet types
- -Year-wise outlet establishment trends
- -Dashboard Interaction
+## Dataset used  
+- <a href="https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Excel%20dashboard.xlsx">Dataset</a>
 
--Dashboard Interaction<a href="https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Sale%20Dashboard.png">View Dashboard</a>
+## ❓ Key Questions (KPIs)  
+- What is the **total sales generated**?  
+- What is the **average sales per transaction**?  
+- How many **items are sold**?  
+- What is the **average customer rating**?  
+- Which **item categories contribute the most to sales**?  
+- How does **fat content (Low Fat vs Regular)** impact sales?  
+- How are **sales distributed across outlet sizes** (Small, Medium, High)?  
+- What is the **sales distribution by outlet location tiers** (Tier 1, Tier 2, Tier 3)?  
+- Which **outlet types perform best in terms of sales and volume**?  
+- What are the **year-wise outlet establishment trends**?  
 
-## 🔄 Process
--Collected and verified raw data using SQL queries.
--Cleaned data by handling missing values and inconsistencies.
--Transformed data into structured format for analysis.
--Created calculated metrics such as:
- -Total Sales
- -Average Sales
- -Number of Items
- -Average Rating
--Built interactive dashboard in Excel using:
- -Pivot Tables
- -Charts (Bar, Donut, Line)
- -Slicers for filtering (Outlet Size, Location, Item Type)
- -Designed a user-friendly layout for better visualization.
+- Dashboard Interaction <a href="https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Sale%20Dashboard.png">View Dashboard</a>
 
-## 📷 **Dashboard Preview:**  ![Grocery-Sales-Analysis Dashboard](https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Sale%20Dashboard.png)
+## 🔄 Process  
+- Verified dataset for missing values and inconsistencies.  
+- Cleaned and transformed raw data into a structured format.  
+- Created calculated fields for:
+  - Total Sales  
+  - Average Sales  
+  - Number of Items  
+  - Average Rating  
+- Built interactive visuals for:
+  - Sales by item categories  
+  - Fat content analysis  
+  - Outlet size and location comparison  
+  - Year-wise outlet trends  
+- Applied slicers for dynamic filtering and better user interaction.  
 
+## 📷 **Dashboard Preview:**  
+![Grocery Sales Dashboard](https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Sale%20Dashboard.png)
 
-## 🔍 Project Insights
--**Total sales** reached $12M+, showing strong overall performance.
--**Low Fat products** contribute ~65% of total sales, dominating the market.
--**Fruits & Vegetables and Snack Foods** are the top-selling categories.
--**Tier 3 locations** generate the highest sales, indicating strong rural/semi-urban demand.
--**Medium-sized outlets** (42%) contribute the highest share of sales.
--**Sales** peaked around 2018, showing growth trends followed by slight fluctuations.
--**Supermarket Type 1** leads in both sales and number of items.
+## 🔍 Project Insights  
+- **Total sales exceeded $12M**, indicating strong business performance.  
+- **Low Fat products dominate**, contributing nearly 65% of total sales.  
+- **Fruits & Vegetables and Snack Foods** are the highest revenue-generating categories.  
+- **Tier 3 locations** show the highest sales contribution, highlighting rural market strength.  
+- **Medium-sized outlets** contribute the largest share (~42%) of sales.  
+- **Sales peaked around 2018**, followed by slight fluctuations.  
+- **Supermarket Type 1** leads in both sales volume and item count.  
 
-## ✅ Final Conclusion 
-
-The Grocery Sales Analysis Dashboard provides comprehensive insights into sales performance, product demand, and outlet efficiency. It enables businesses to identify high-performing categories, optimize outlet strategies, and improve customer satisfaction through data-driven decisions.
+## ✅ Final Conclusion  
+The **Grocery Sales Analysis Dashboard** provides actionable insights into sales trends, customer preferences, and outlet performance. It enables data-driven decision-making by identifying top-performing products, optimal outlet strategies, and growth opportunities, helping businesses enhance profitability and operational efficiency.

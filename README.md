@@ -18,7 +18,7 @@ The objective of the Grocery Sales Analysis Dashboard is to analyze sales perfor
 - Which **outlet types perform best in terms of sales and volume**?  
 - What are the **year-wise outlet establishment trends**?  
 
-- Dashboard Interaction <a href="https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Sale%20Dashboard.png">View Dashboard</a>
+ -Dashboard Interaction <a href="https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Sale%20Dashboard.png">View Dashboard</a>
 
 ## 🔄 Process  
 - Verified dataset for missing values and inconsistencies.  

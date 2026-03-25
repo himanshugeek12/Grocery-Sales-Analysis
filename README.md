@@ -5,17 +5,17 @@ The objective of the Grocery Sales Analysis Dashboard is to analyze sales perfor
 -<a href="https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Excel%20dashboard.xlsx">Dataset</a>
 
 ## ❓ Key Questions (KPIs)
--What is the total sales generated?
--What is the average sales per transaction?
--How many items are sold?
--What is the average customer rating?
--Which item types contribute the most to sales?
--How does fat content (Low Fat vs Regular) impact sales?
--Sales comparison across outlet sizes (Small, Medium, High)
--Sales distribution by outlet location tiers (Tier 1, Tier 2, Tier 3)
--Performance comparison across different outlet types
--Year-wise outlet establishment trends
--Dashboard Interaction
+ -What is the total sales generated?
+ -What is the average sales per transaction?
+ -How many items are sold?
+ -What is the average customer rating?
+ -Which item types contribute the most to sales?
+ -How does fat content (Low Fat vs Regular) impact sales?
+ -Sales comparison across outlet sizes (Small, Medium, High)
+ -Sales distribution by outlet location tiers (Tier 1, Tier 2, Tier 3)
+ -Performance comparison across different outlet types
+ -Year-wise outlet establishment trends
+ -Dashboard Interaction
 
 -Dashboard Interaction<a href="https://github.com/your-username/Grocery-Sales-Analysis/blob/main/Grocery%20Dashboard.png">View Dashboard</a>
 
@@ -34,7 +34,7 @@ The objective of the Grocery Sales Analysis Dashboard is to analyze sales perfor
  -Slicers for filtering (Outlet Size, Location, Item Type)
  -Designed a user-friendly layout for better visualization.
 
-## 📷 **Dashboard Preview:**  ![Global Sports Analysis Dashboard](https://github.com/himanshugeek12/Global-Sports-Analysis-Dashboard/blob/master/Global%20Sports%20Dashboard.png)
+## 📷 **Dashboard Preview:**  ![Grocery-Sales-Analysis Dashboard](https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Excel%20dashboard.xlsx)
 
 
 ## 🔍 Project Insights

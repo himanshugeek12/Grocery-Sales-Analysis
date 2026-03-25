@@ -17,7 +17,7 @@ The objective of the Grocery Sales Analysis Dashboard is to analyze sales perfor
  -Year-wise outlet establishment trends
  -Dashboard Interaction
 
--Dashboard Interaction<a href="https://github.com/your-username/Grocery-Sales-Analysis/blob/main/Grocery%20Dashboard.png">View Dashboard</a>
+-Dashboard Interaction<a href="https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Sale%20Dashboard.png">View Dashboard</a>
 
 ## 🔄 Process
 -Collected and verified raw data using SQL queries.
@@ -34,7 +34,7 @@ The objective of the Grocery Sales Analysis Dashboard is to analyze sales perfor
  -Slicers for filtering (Outlet Size, Location, Item Type)
  -Designed a user-friendly layout for better visualization.
 
-## 📷 **Dashboard Preview:**  ![Grocery-Sales-Analysis Dashboard](https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Excel%20dashboard.xlsx)
+## 📷 **Dashboard Preview:**  ![Grocery-Sales-Analysis Dashboard](https://github.com/himanshugeek12/Grocery-Sales-Analysis/blob/master/Grocery%20Sale%20Dashboard.png)
 
 
 ## 🔍 Project Insights
